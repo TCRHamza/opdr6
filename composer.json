@@ -1,0 +1,17 @@
+{
+    "name": "voorbeeld/login",
+    "autoload": {
+        "psr-4": {
+            "Voorbeeld\\Login\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hmidoushvdb",
+            "email": "9018415@student.tcrmbo.nl"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
